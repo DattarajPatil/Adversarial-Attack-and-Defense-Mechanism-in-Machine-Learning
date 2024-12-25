@@ -1,0 +1,2 @@
+# Adversarial-Attack-and-Defense-Mechanism-in-Machine-Learning
+Designed and implemented machine learning models to analyze the effects of adversarial attacks on system performance. Developed defense mechanisms such as adversarial training and gradient masking to enhance model robustness. Evaluated system resilience under various attack scenarios, ensuring improved security and reliability in AI applications.
